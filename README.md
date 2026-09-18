@@ -237,3 +237,6 @@ Ys X: Nordics is available as a complete free version, providing you with all fe
 ---
 
 Get ready to embark on your adventure in **Ys X: Nordics**! Download now and experience the thrill of exploration, dynamic combat, and a story that will keep you engaged for hours.
+
+---
+**Last updated:** 2026-09-18 09:30:31 UTC
